@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @david-siwarski
+- 👋 Hi, I’m @davidsiwarski
 - 👀 I’m interested in psychology, neuroscience, and medicine
 - 🌱 I’m currently learning typescript and python
 
