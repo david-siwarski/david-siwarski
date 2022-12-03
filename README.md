@@ -2,7 +2,7 @@
 ### ‍💻 Software Developer | 🎨 Graphic Designer
 
 ### Languages
-- 🦀 systems programming = rust 🟩☐☐☐☐
+- 🦀 systems programming = rust ⭐☆☆☆☆
 - 💜 application development = kotlin 🟩🟩🟩☐☐
 - 🐚🐋🐍☸️ scripting = bash 🟩🟩☐☐☐, python 🟩🟩☐☐☐, docker 🟩🟩🟩☐☐, kubernetes 🟩☐☐☐☐
 - 📚📚📚 ️marking = md 🟩🟩🟩☐☐, html 🟩🟩☐☐☐, xml 🟩🟩☐☐☐
