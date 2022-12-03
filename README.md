@@ -5,13 +5,13 @@
 - 🦀 systems programming = rust 🟩☐☐☐☐
 - 💜 application development = kotlin 🟩🟩🟩☐☐
 - 🐚🐋🐍☸️ scripting = bash 🟩🟩☐☐☐, python 🟩🟩☐☐☐, docker 🟩🟩🟩☐☐, kubernetes 🟩☐☐☐☐
-- 📚📚📚 ️marking = md 🟩🟩🟩☐☐, html 🟩🟩🟩☐☐, xml 🟩🟩🟩☐☐
+- 📚📚📚 ️marking = md 🟩🟩🟩☐☐, html 🟩🟩☐☐☐, xml 🟩🟩☐☐☐
 
 ### Tools
 - 🗎 ReadTheDocs 🟩🟩🟩☐☐
 - 🚀 Android Jetpack 🟩🟩🟩☐☐
 - 📁 Git 🟩🟩🟩☐☐
-- 🖥️ IntelliJ IDEA 🟩🟩🟩☐☐
+- 🖥️ IntelliJ IDEA 🟩🟩☐☐☐
 - 🖼️ Photoshop/GIMP 🟩🟩🟩🟩☐
 - 🔴 Illustrator/Inkscape 🟩🟩🟩☐☐
 - 🎥 Premiere/Kdenlive 🟩🟩🟩☐☐
