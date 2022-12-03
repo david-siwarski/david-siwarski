@@ -3,18 +3,18 @@
 
 ### Languages
 - 🦀 systems programming = rust ⭐☆☆☆☆
-- 💜 application development = kotlin 🟩🟩🟩☐☐
-- 🐚🐋🐍☸️ scripting = bash 🟩🟩☐☐☐, python 🟩🟩☐☐☐, docker 🟩🟩🟩☐☐, kubernetes 🟩☐☐☐☐
-- 📚📚📚 ️marking = md 🟩🟩🟩☐☐, html 🟩🟩☐☐☐, xml 🟩🟩☐☐☐
+- 💜 application development = kotlin ⭐⭐⭐☆☆
+- 🐚🐋🐍☸️ scripting = bash ⭐⭐☆☆☆, python ⭐⭐☆☆☆, docker ⭐⭐⭐☆☆, kubernetes ⭐☆☆☆☆
+- 📚📚📚 ️marking = md ⭐⭐⭐☆☆, html ⭐⭐☆☆☆, xml ⭐⭐☆☆☆
 
 ### Tools
-- 🗎 ReadTheDocs 🟩🟩🟩☐☐
-- 🚀 Android Jetpack 🟩🟩🟩☐☐
-- 📁 Git 🟩🟩🟩☐☐
-- 🖥️ IntelliJ IDEA 🟩🟩☐☐☐
-- 🖼️ Photoshop/GIMP 🟩🟩🟩🟩☐
-- 🔴 Illustrator/Inkscape 🟩🟩🟩☐☐
-- 🎥 Premiere/Kdenlive 🟩🟩🟩☐☐
+- 🗎 ReadTheDocs ⭐⭐⭐☆☆
+- 🚀 Android Jetpack ⭐⭐⭐☆☆
+- 📁 Git ⭐⭐⭐☆☆
+- 🖥️ IntelliJ IDEA ⭐⭐☆☆☆
+- 🖼️ Photoshop/GIMP ⭐⭐⭐⭐☆
+- 🔴 Illustrator/Inkscape ⭐⭐⭐☆☆
+- 🎥 Premiere/Kdenlive ⭐⭐⭐☆☆
 
 <!---
 david-siwarski/david-siwarski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
