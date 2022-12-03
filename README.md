@@ -4,7 +4,7 @@
 ### Languages
 - 🦀 systems programming = rust 🟩☐☐☐☐
 - 💜 application development = kotlin 🟩🟩🟩☐☐
-- 🐚🐋🐍 scripting = bash 🟩🟩☐☐☐, docker 🟩🟩🟩☐☐, python 🟩🟩☐☐☐
+- 🐚🐋🐍☸️ scripting = bash 🟩🟩☐☐☐, python 🟩🟩☐☐☐, docker 🟩🟩🟩☐☐, kubernetes 🟩☐☐☐☐
 - 📚📚📚 ️marking = md 🟩🟩🟩☐☐, html 🟩🟩🟩☐☐, xml 🟩🟩🟩☐☐
 
 ### Tools
