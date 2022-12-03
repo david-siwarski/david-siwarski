@@ -2,16 +2,18 @@
 ### ‍💻 Software Developer | 🎨 Graphic Designer
 
 ### Languages
-- 🦀 systems programming = rust ⭐☆☆☆☆
-- 💜 application development = kotlin ⭐⭐⭐☆☆
-- 🐚🐋🐍☸️ scripting = bash ⭐⭐☆☆☆, python ⭐⭐☆☆☆, docker ⭐⭐⭐☆☆, kubernetes ⭐☆☆☆☆
-- 📚📚📚 ️marking = md ⭐⭐⭐☆☆, html ⭐⭐☆☆☆, xml ⭐⭐☆☆☆
+- 🦀 Systems Programming = .rs ⭐☆☆☆☆
+- 💜 Application Programming = .kt ⭐⭐⭐☆☆
+- 🐚🐍 Scripting = .sh ⭐⭐☆☆☆, .py ⭐⭐☆☆☆, 
+- 📚 ️Marking = .md ⭐⭐⭐☆☆, .html ⭐⭐☆☆☆, .xml ⭐⭐☆☆☆
 
 ### Tools
 - 🗎 ReadTheDocs ⭐⭐⭐☆☆
 - 🚀 Android Jetpack ⭐⭐⭐☆☆
 - 📁 Git ⭐⭐⭐☆☆
 - 🖥️ IntelliJ IDEA ⭐⭐☆☆☆
+- 🐋 Docker ⭐⭐⭐☆☆
+- ☸️ Kubernetes ⭐☆☆☆☆
 - 🖼️ Photoshop/GIMP ⭐⭐⭐⭐☆
 - 🔴 Illustrator/Inkscape ⭐⭐⭐☆☆
 - 🎥 Premiere/Kdenlive ⭐⭐⭐☆☆
