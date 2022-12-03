@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @davidsiwarski
-- 👀 I’m interested in psychology, neuroscience, and medicine
-- 🌱 I’m currently learning typescript and python
+## 👋 Hi, I’m @DavidSiwarski
+### ‍💻 Software Developer | 🎨 Graphic Designer
+
+### Languages
+- 🦀 systems programming = rust 🟩☐☐☐☐
+- 💜 application development = kotlin 🟩🟩🟩☐☐
+- 🐚🐋🐍 scripting = bash 🟩🟩☐☐☐, docker 🟩🟩🟩☐☐, python 🟩🟩☐☐☐
+- 📚 ️markdown = md 🟩🟩🟩☐☐, html 🟩🟩🟩☐☐, xml 🟩🟩🟩☐☐
+
+### Tools
+- 🗎 ReadTheDocs 🟩🟩🟩☐☐
+- 🚀 Android Jetpack 🟩🟩🟩☐☐
+- 📁 Git 🟩🟩🟩☐☐
+- 🖥️ IntelliJ IDEA 🟩🟩🟩☐☐
+- 🖼️ Photoshop/GIMP 🟩🟩🟩🟩☐
+- 🔴 Illustrator/Inkscape 🟩🟩🟩☐☐
+- 🎥 Premiere/Kdenlive 🟩🟩🟩☐☐
 
 <!---
 david-siwarski/david-siwarski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
