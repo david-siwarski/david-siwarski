@@ -9,9 +9,12 @@
 
 ### Tools
 - 🗎 ReadTheDocs ⭐⭐⭐☆☆
-- 🚀 Android Jetpack ⭐⭐⭐☆☆
+- 📓 JupyterLab ⭐⭐⭐☆☆
 - 📁 Git ⭐⭐⭐☆☆
 - 🖥️ IntelliJ IDEA ⭐⭐☆☆☆
+- 🖥 Ktor ⭐⭐☆☆☆
+- 🚀 Android Jetpack ⭐⭐⭐☆☆
+- 🔥 PyTorch ⭐☆☆☆☆
 - 🐋 Docker ⭐⭐⭐☆☆
 - ☸️ Kubernetes ⭐☆☆☆☆
 - 🖼️ Photoshop/GIMP ⭐⭐⭐⭐☆
