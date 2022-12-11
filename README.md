@@ -3,7 +3,7 @@
 
 
 ### My Accreditations / My Programming Languages
-![BachelorOfScience](Images/BachelorsOfScience.png) / ![Rust](Images/Rust.png) ![Kotlin](Images/Kotlin.png)
+![BachelorOfScience](Images/1.svg) / ![Rust](Images/Rust.png) ![Kotlin](Images/Kotlin.png)
 ### My Scripting Languages
 ![Bash](Images/Bash.png) ![Docker](Images/Docker.png) ![Kubernetes](Images/Kubernetes.png) ![Python](Images/Python.png)
 ### My General Programming Tools
