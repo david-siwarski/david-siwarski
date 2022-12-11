@@ -2,26 +2,23 @@
 ### ‍💻 Software Developer | 🎨 Graphic Designer
 
 
-### My Accreditations
-![BachelorOfScience](Images/BachelorsOfScience.png)
-### My Programming Languages
-![Rust](Images/Rust.png) ![Kotlin](Images/Kotlin.png)
+### My Accreditations / My Programming Languages
+![BachelorOfScience](Images/BachelorsOfScience.png) / ![Rust](Images/Rust.png) ![Kotlin](Images/Kotlin.png)
 ### My Scripting Languages
 ![Bash](Images/Bash.png) ![Docker](Images/Docker.png) ![Kubernetes](Images/Kubernetes.png) ![Python](Images/Python.png)
 ### My General Programming Tools
 ![IntelliJ](Images/IntelliJ.png) ![Git](Images/Git.png) ![Github](Images/Github.png)
 ### My Kotlin Programming Tools
-![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png)
-![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png)
+![Gradle](Images/Gradle.png) ![Jitpack](Images/Jitpack.png) ![Exposed](Images/Exposed.png)
+![Ktor](Images/Ktor.png) ![AndroidJetpack](Images/AndroidJetpack.png) ![Compose Multiplatform](Images/ComposeMultiplatform.png)
 ### My Resource Development Tools
-![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png)
-![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png)
-![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png)
-![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png) 
+![Sheets](Images/Sheets.png) ![Docs](Images/Docs.png) ![JupyterLab](Images/JupyterLab.png)
+![ReadTheDocs](Images/ReadTheDocs.png) ![GIMP](Images/GIMP.png) ![Inkscape](Images/Inkscape.png)
+![Ardour](Images/Ardour.png) ![Blender](Images/Blender.png) ![FreeCAD](Images/FreeCAD.png)
+![Slides](Images/Slides.png) ![Kdenlive](Images/Kdenlive.png) 
 ### My Python Programming Tools
-![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png)
-![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png)
-![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png) ![BachelorOfScience](Images/BachelorsOfScience.png)
+![MyPy](Images/MyPy.png) ![NumPy](Images/NumPy.png) ![Pandas](Images/Pandas.png)
+![SciPy](Images/SciPy.png) ![Statsmodels](Images/Statsmodels.png) ![Matplotlib](Images/Matplotlib.png)
 
 
 <!---
